@@ -1,2 +1,2 @@
 # Weather-Forecast-App
-Python based project
+It is an Python based project
